@@ -6,3 +6,5 @@ Hello Git and GitHub!
 My name is Akal Nigusu.
 This is my first GitHub project.
 I am learning Git using VS Code.
+I am learning Git and GitHub.
+This is my first feature branch.
